@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Deep Learning
 nav_order: 6
 ---
 
