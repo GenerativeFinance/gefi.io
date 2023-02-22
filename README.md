@@ -9,11 +9,19 @@
     <br><br><br>
 </p>
 
-<p align="center">A video walkthrough of various Just the Docs features</p>
+<p align="center">Welcome to GenerativeFinance</p>
 
-https://user-images.githubusercontent.com/85418632/211225192-7e5d1116-2f4f-4305-bb9b-437fe47df071.mp4
+Welcome to GEFI dot io, a community-driven repo where we explore, collaborate and discuss all aspects of the generative economy and its assets. This is a place where you can share your thoughts, ideas, and insights on this rapidly evolving field. Whether you are an expert or simply interested in learning more about generative finance, we welcome you to contribute and be a part of our community.
 
-## Installation
+## What is GEFI?
+
+Generative finance is a branch of finance that uses artificial intelligence (AI) and machine learning techniques to generate financial products or services. This can include the creation of financial instruments, the optimization of trading strategies, the prediction of market movements, and the identification of investment opportunities.
+
+One key aspect of generative finance is the use of generative models, which are algorithms that can generate new data that is similar to a given set of training data. These models can be used to generate financial products or services by learning from past data and using that knowledge to make predictions about future trends or patterns.
+
+Generative finance has the potential to revolutionize many aspects of the financial industry, including investment management, risk management, and trading. It can also help financial institutions to more effectively analyze and understand large amounts of data, and to identify new opportunities for growth and innovation. However, it is important to note that generative finance is still a relatively new and rapidly evolving field, and there are many challenges and uncertainties that need to be addressed as it continues to develop.
+
+
 
 ### Use the template
 
