@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Mathematics in AI
-nav_order: 2
+nav_order: 1
 ---
 
 # Mathematics in AI
