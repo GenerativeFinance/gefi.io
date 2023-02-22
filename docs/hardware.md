@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: High-performance computing
 nav_order: 6
 ---
 
