@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Natural language processing
 nav_order: 2
 ---
 
