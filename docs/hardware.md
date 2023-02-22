@@ -1,10 +1,10 @@
 ---
 layout: default
-title: High-performance computing
+title: Hardware
 nav_order: 6
 ---
 
-# High-performance computing (HPC)
+# Hardware
 {: .no_toc }
 
 ## Table of contents
