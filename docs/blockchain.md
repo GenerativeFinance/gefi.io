@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: Blockchain
 nav_order: 6
 ---
 
-# Customization
+# Blockchain
 {: .no_toc }
 
 ## Table of contents
