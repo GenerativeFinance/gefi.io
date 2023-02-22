@@ -4,7 +4,7 @@ title: Customization
 nav_order: 6
 ---
 
-# Customization
+# Data Visualization
 {: .no_toc }
 
 ## Table of contents
