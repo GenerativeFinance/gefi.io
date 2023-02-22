@@ -3,13 +3,8 @@
 </p>
 <br><br>
 <p align="center">
-    <h1 align="center">Just the Docs</h1>
-    <p align="center">A modern, highly customizable, and responsive Jekyll theme for documentation with built-in search.<br>Easily hosted on GitHub Pages with few dependencies.</p>
-    <p align="center"><strong><a href="https://just-the-docs.github.io/just-the-docs/">See it in action!</a></strong></p>
-    <br><br><br>
+    <h1 align="center">Welcome to GenerativeFinance</h1>
 </p>
-
-<p align="center">Welcome to GenerativeFinance</p>
 
 Welcome to GEFI dot io, a community-driven repo where we explore, collaborate and discuss all aspects of the generative economy and its assets. This is a place where you can share your thoughts, ideas, and insights on this rapidly evolving field. Whether you are an expert or simply interested in learning more about generative finance, we welcome you to contribute and be a part of our community.
 
