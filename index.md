@@ -6,19 +6,21 @@ description: "Just the Docs is a responsive Jekyll theme with built-in search th
 permalink: /
 ---
 
-# Focus on writing good documentation
-{: .fs-9 }
+# Welcome
+Welcome to GEFI dot io, a community-driven platform where we explore and discuss all aspects of the generative economy and its assets. This is a place where you can share your thoughts, ideas, and insights on this rapidly evolving field. Whether you are an expert or simply interested in learning more about generative finance, we welcome you to contribute and be a part of our community.
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+# What is GEFI?
+Generative finance is a branch of finance that uses artificial intelligence (AI) and machine learning techniques to generate financial products or services. This can include the creation of financial instruments, the optimization of trading strategies, the prediction of market movements, and the identification of investment opportunities.
+
+One key aspect of generative finance is the use of generative models, which are algorithms that can generate new data that is similar to a given set of training data. These models can be used to generate financial products or services by learning from past data and using that knowledge to make predictions about future trends or patterns.
+
+Generative finance has the potential to revolutionize many aspects of the financial industry, including investment management, risk management, and trading. It can also help financial institutions to more effectively analyze and understand large amounts of data, and to identify new opportunities for growth and innovation. However, it is important to note that generative finance is still a relatively new and rapidly evolving field, and there are many challenges and uncertainties that need to be addressed as it continues to develop.
 
 [Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View it on GitHub][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
+[View GitHub to strart contributing][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
 
-{: .warning }
-> This website documents the features of the current `main` branch of the Just the Docs theme. See [the CHANGELOG]({% link CHANGELOG.md %}) for a list of releases, new features, and bug fixes.
 
 Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
 
