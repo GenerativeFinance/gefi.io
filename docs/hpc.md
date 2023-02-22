@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: High-performance computing
 nav_order: 6
 ---
 
-# Customization
+# High-performance computing (HPC) systems
 {: .no_toc }
 
 ## Table of contents
