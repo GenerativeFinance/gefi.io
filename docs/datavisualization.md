@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Customization
+title: Data Visualization
 nav_order: 6
 ---
 
