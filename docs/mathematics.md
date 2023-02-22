@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Configuration
+title: Mathematics in AI
 nav_order: 2
 ---
 
