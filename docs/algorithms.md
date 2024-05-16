@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Customization
+title: Algorithms
 nav_order: 6
 ---
 
-# Customization
+# Algorithms
 {: .no_toc }
 
 ## Table of contents
