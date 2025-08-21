@@ -24,7 +24,7 @@ Generative finance has the potential to revolutionize many aspects of the financ
 
 Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
 
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *[customize]* the theme to make them look completely different!
+Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *customize* the theme to make them look completely different!
 
 Browse the docs to learn more about how to use this theme.
 
@@ -65,11 +65,9 @@ email, or any other method with the owners of this repository before making a ch
 #### Thank you to the contributors of Just the Docs!
 
 <ul class="list-style-none">
-{% for contributor in site.github.contributors %}
   <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"></a>
+     <a href="https://github.com/GenerativeFinance/gefi.io/graphs/contributors">View contributors on GitHub</a>
   </li>
-{% endfor %}
 </ul>
 
 ### Code of Conduct
@@ -97,5 +95,5 @@ Just the Docs is committed to fostering a welcoming community.
 [GitHub Pages]: https://pages.github.com/
 [Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
 [GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[customize]: {% link docs/customization.md %}
+[customize]: https://just-the-docs.github.io/just-the-docs/docs/customization/
 [use the template]: https://github.com/just-the-docs/just-the-docs-template/generate

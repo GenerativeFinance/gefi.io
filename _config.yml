@@ -45,6 +45,8 @@ exclude:
    - README.md
  # theme test code
    - fixtures/
+ # exclude broken docs for now
+   - docs/
 
 # Set a path/url to a logo that will be displayed instead of the title
 #logo: "/assets/images/just-the-docs.png"
