@@ -1,99 +1,112 @@
 ---
-layout: default
+layout: home
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "GEFI - The future of generative finance. AI-powered financial products and services that revolutionize trading, risk management, and investment strategies."
 permalink: /
 ---
 
-# Welcome
-Welcome to GEFI dot io, a community-driven platform where we explore and discuss all aspects of the generative economy and its assets. This is a place where you can share your thoughts, ideas, and insights on this rapidly evolving field. Whether you are an expert or simply interested in learning more about generative finance, we welcome you to contribute and be a part of our community.
+<!-- Hero Section -->
+<section class="hero">
+  <div class="wrapper">
+    <h1>The Future of Generative Finance</h1>
+    <p>Harness the power of AI and machine learning to generate innovative financial products, optimize trading strategies, and unlock new investment opportunities.</p>
+    <div class="cta-buttons">
+      <a href="#features" class="btn btn-primary">Explore Features</a>
+      <a href="https://github.com/GenerativeFinance/gefi" class="btn btn-secondary">View on GitHub</a>
+    </div>
+  </div>
+</section>
 
-# What is GEFI?
-Generative finance is a branch of finance that uses artificial intelligence (AI) and machine learning techniques to generate financial products or services. This can include the creation of financial instruments, the optimization of trading strategies, the prediction of market movements, and the identification of investment opportunities.
+<!-- Features Section -->
+<section id="features" class="section">
+  <div class="wrapper">
+    <h2>Revolutionizing Finance with AI</h2>
+    <div class="features">
+      <div class="feature">
+        <h3>🤖 Generative Models</h3>
+        <p>Advanced AI algorithms that generate new financial instruments and strategies by learning from historical data and market patterns.</p>
+      </div>
+      <div class="feature">
+        <h3>📈 Trading Optimization</h3>
+        <p>Optimize trading strategies with machine learning models that predict market movements and identify profitable opportunities.</p>
+      </div>
+      <div class="feature">
+        <h3>⚡ Risk Management</h3>
+        <p>Intelligent risk assessment and management systems that help institutions make data-driven decisions with confidence.</p>
+      </div>
+      <div class="feature">
+        <h3>💡 Investment Insights</h3>
+        <p>Discover new investment opportunities through AI-powered analysis of large datasets and market trends.</p>
+      </div>
+      <div class="feature">
+        <h3>🔗 Seamless Integration</h3>
+        <p>Easy-to-use APIs and tools that integrate with existing financial systems and workflows.</p>
+      </div>
+      <div class="feature">
+        <h3>🛡️ Secure & Compliant</h3>
+        <p>Built with security and regulatory compliance in mind, ensuring your data and operations remain protected.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-One key aspect of generative finance is the use of generative models, which are algorithms that can generate new data that is similar to a given set of training data. These models can be used to generate financial products or services by learning from past data and using that knowledge to make predictions about future trends or patterns.
+<!-- How It Works Section -->
+<section class="section" style="background: #f8f9fa;">
+  <div class="wrapper">
+    <h2>How GEFI Works</h2>
+    <div class="features">
+      <div class="feature" style="background: #fff;">
+        <h3>1. Data Ingestion</h3>
+        <p>Connect your financial data sources and let GEFI ingest market data, historical trends, and real-time information.</p>
+      </div>
+      <div class="feature" style="background: #fff;">
+        <h3>2. Model Training</h3>
+        <p>Our AI models learn from your data to understand patterns, correlations, and market dynamics specific to your needs.</p>
+      </div>
+      <div class="feature" style="background: #fff;">
+        <h3>3. Strategy Generation</h3>
+        <p>Generate innovative financial products, trading strategies, and investment opportunities tailored to your objectives.</p>
+      </div>
+      <div class="feature" style="background: #fff;">
+        <h3>4. Implementation</h3>
+        <p>Deploy and monitor your AI-generated strategies with comprehensive analytics and performance tracking.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-Generative finance has the potential to revolutionize many aspects of the financial industry, including investment management, risk management, and trading. It can also help financial institutions to more effectively analyze and understand large amounts of data, and to identify new opportunities for growth and innovation. However, it is important to note that generative finance is still a relatively new and rapidly evolving field, and there are many challenges and uncertainties that need to be addressed as it continues to develop.
+<!-- Use Cases Section -->
+<section class="section">
+  <div class="wrapper">
+    <h2>Use Cases</h2>
+    <div class="features">
+      <div class="feature">
+        <h3>Investment Management</h3>
+        <p>Create personalized investment portfolios and strategies using AI-driven market analysis and risk assessment.</p>
+      </div>
+      <div class="feature">
+        <h3>Algorithmic Trading</h3>
+        <p>Develop sophisticated trading algorithms that adapt to market conditions and optimize execution strategies.</p>
+      </div>
+      <div class="feature">
+        <h3>Financial Product Innovation</h3>
+        <p>Generate new financial instruments and derivatives that meet emerging market demands and regulatory requirements.</p>
+      </div>
+    </div>
+  </div>
+</section>
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
-[View GitHub to strart contributing][Just the Docs repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
-
----
-
-
-Just the Docs is a theme for generating static websites with [Jekyll]. You can write source files for your web pages using [Markdown], the [Liquid] templating language, and HTML.[^1] Jekyll builds your site by converting all files that have [front matter] to HTML. Your [Jekyll configuration] file determines which theme to use, and sets general parameters for your site, such as the URL of its home page.
-
-Jekyll builds this Just the Docs theme docs website using the theme itself. These web pages show how your web pages will look *by default* when you use this theme. But you can easily *customize* the theme to make them look completely different!
-
-Browse the docs to learn more about how to use this theme.
-
-## Getting started
-
-The [Just the Docs Template] provides the simplest, quickest, and easiest way to create a new website that uses the Just the Docs theme. To get started with creating a site, just click "[use the template]"!
-
-{: .note }
-To use the theme, you do ***not*** need to clone or fork the [Just the Docs repo]! You should do that only if you intend to browse the theme docs locally, contribute to the development of the theme, or develop a new theme based on Just the Docs.
-
-You can easily set the site created by the template to be published on [GitHub Pages] – the [template README] file explains how to do that, along with other details.
-
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^2] And you will be able to deploy your local build to a different platform than GitHub Pages.
-
-More specifically, the created site:
-
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
-
-Other than that, you're free to customize sites that you create with the template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
-
-{: .note }
-See the theme [README][Just the Docs README] for how to use the theme as a gem without creating a new site.
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-  <li class="d-inline-block mr-1">
-     <a href="https://github.com/GenerativeFinance/gefi.io/graphs/contributors">View contributors on GitHub</a>
-  </li>
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
-
-----
-
-[^1]: The [source file for this page] uses all three markup languages.
-
-[^2]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
-
-[Jekyll]: https://jekyllrb.com
-[Markdown]: https://daringfireball.net/projects/markdown/
-[Liquid]: https://github.com/Shopify/liquid/wiki
-[Front matter]: https://jekyllrb.com/docs/front-matter/
-[Jekyll configuration]: https://jekyllrb.com/docs/configuration/
-[source file for this page]: https://github.com/just-the-docs/just-the-docs/blob/main/index.md
-[Just the Docs Template]: https://just-the-docs.github.io/just-the-docs-template/
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[Just the Docs repo]: https://github.com/just-the-docs/just-the-docs
-[Just the Docs README]: https://github.com/just-the-docs/just-the-docs/blob/main/README.md
-[GitHub Pages]: https://pages.github.com/
-[Template README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[customize]: https://just-the-docs.github.io/just-the-docs/docs/customization/
-[use the template]: https://github.com/just-the-docs/just-the-docs-template/generate
+<!-- Getting Started Section -->
+<section class="section" style="background: #f8f9fa;">
+  <div class="wrapper">
+    <h2>Get Started Today</h2>
+    <div style="text-align: center; max-width: 600px; margin: 0 auto;">
+      <p style="font-size: 1.1rem; margin-bottom: 2rem;">Join the future of finance with GEFI. Whether you're a financial institution, trading firm, or individual investor, our platform provides the tools you need to harness the power of generative AI.</p>
+      <div class="cta-buttons">
+        <a href="https://github.com/GenerativeFinance/gefi" class="btn btn-primary">Start Building</a>
+        <a href="https://docs.gefi.io" class="btn btn-secondary">Read Documentation</a>
+      </div>
+    </div>
+  </div>
+</section>

@@ -1,0 +1,51 @@
+<!-- GEFI specific meta tags -->
+<meta name="keywords" content="generative finance, AI finance, machine learning trading, algorithmic trading, financial AI, fintech, investment AI">
+<meta name="author" content="GEFI Team">
+<meta name="robots" content="index, follow">
+
+<!-- Open Graph meta tags for social media -->
+<meta property="og:site_name" content="GEFI">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="en_US">
+
+<!-- Twitter Card meta tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@GefiIO">
+<meta name="twitter:creator" content="@GefiIO">
+
+<!-- Additional meta tags for homepage -->
+{% if page.url == "/" %}
+<meta property="og:title" content="GEFI - The Future of Generative Finance">
+<meta property="og:description" content="Harness the power of AI and machine learning to generate innovative financial products, optimize trading strategies, and unlock new investment opportunities.">
+<meta property="og:url" content="{{ site.url }}">
+<meta name="twitter:title" content="GEFI - The Future of Generative Finance">
+<meta name="twitter:description" content="Harness the power of AI and machine learning to generate innovative financial products, optimize trading strategies, and unlock new investment opportunities.">
+{% endif %}
+
+<!-- Canonical URL -->
+<link rel="canonical" href="{{ page.url | absolute_url }}">
+
+<!-- Structured data -->
+{% if page.url == "/" %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "GEFI",
+  "description": "The future of generative finance - AI-powered financial products and services",
+  "url": "{{ site.url }}",
+  "applicationCategory": "FinanceApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "GEFI Team",
+    "url": "{{ site.url }}"
+  }
+}
+</script>
+{% endif %}
